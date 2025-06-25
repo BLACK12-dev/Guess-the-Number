@@ -1,0 +1,42 @@
+body {
+  margin-top: 4cm;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color:wheat;
+  background-image: url('https://img.freepik.com/free-vector/pink-neon-background_53876-91656.jpg?ga=GA1.1.1777005373.1750759679&semt=ais_items_boosted&w=740');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  
+
+}
+
+input {
+  padding: 5px;
+  width: 100px;
+  margin: 20px;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 5px;
+  background-color:white;
+  color:black;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color:aliceblue
+}
+
+p {
+  font-size: 18px;
+}
+
+#resultMessage {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+}
